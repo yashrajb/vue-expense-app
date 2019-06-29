@@ -13,6 +13,7 @@
          <b-navbar-nav>
         <router-link to="/" exact tag="b-nav-item">Add Expense</router-link>
         <router-link to="/expenses" exact tag="b-nav-item">Expenses</router-link>
+        <b-nav-item href="http://yashraj.cf" target="__blank">About developer</b-nav-item>
       </b-navbar-nav>
       </b-navbar-nav>
     </b-collapse>
